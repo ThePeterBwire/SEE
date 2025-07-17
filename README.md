@@ -29,13 +29,13 @@ A simple yet powerful calculator that performs basic arithmetic operations with 
 - Simple and intuitive output.
 
 ## 💻 Example Run
-Enter the first number: 10
-Enter the second number: 2
-Results of your two numbers:
-Sum: 12.0
-Difference: 8.0
-Product: 20.0
-Quotient: 5.0
+-Enter the first number: 10
+-Enter the second number: 2
+-Results of your two numbers:
+-Sum: 12.0
+-Difference: 8.0
+-Product: 20.0
+-Quotient: 5.0
 
 
 ## 🤝 Contributing
